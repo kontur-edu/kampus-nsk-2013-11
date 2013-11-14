@@ -5,7 +5,8 @@
 Ссылки
 ---
 
-1. [Сам Git](http://git-scm.com/)
+1. [Слайды](Git.pptx?raw=true)
+2. [Сам Git](http://git-scm.com/)
 2. [Игра Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 3. [Git Book](http://git-scm.com/book)
 
