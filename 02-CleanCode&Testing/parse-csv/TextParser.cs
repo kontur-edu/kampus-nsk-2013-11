@@ -44,7 +44,6 @@ namespace parse
 
         public string[] SplitToFields(string line)
         {
-            Regex.Replace(...)
             var pos = 0;
             var res = new List<string>();
             while (pos < line.Length)
