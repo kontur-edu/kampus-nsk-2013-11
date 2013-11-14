@@ -35,5 +35,7 @@ git config --global user.email "your@email.here"
 (%USERNAME% - пользователь, под которым вы в текущий момент работаете). 
 Каталог .ssh лучше создать командой `mkdir .ssh` в консоли или в фаре.
   * Зарегистрироваться на https://github.com и в настройках аккаунта указать ssh-ключ (id_rsa.pub)
+  * Впишите свой логин [вот сюда](https://docs.google.com/document/d/1r_akytZr8_93-KzrTa7idS4SQT6RUFuDK8sMx0557y8/edit?usp=sharing), 
+чтобы вам дали права на учебный репозиторий.
 
 
